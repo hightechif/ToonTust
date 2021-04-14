@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.example.toontust
 
 import android.graphics.Paint.STRIKE_THRU_TEXT_FLAG
 import android.view.LayoutInflater
